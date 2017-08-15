@@ -1,4 +1,5 @@
 This is the project available in master.
 some additions for dev1.
+Now bug is fixed.
 this is the additions formm dev2.
 
